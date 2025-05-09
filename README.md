@@ -15,7 +15,6 @@ This project uses machine learning to classify and analyze space debris using re
 - Feature engineering (e.g., altitude, SSO flag)
 - Model training, evaluation, and comparison (Random Forest, SVM, Logistic Regression, etc.)
 - Modular codebase for easy extension and maintenance
-- Professional, clear visualizations saved to disk
 
 ## File Structure
 ```
@@ -26,7 +25,7 @@ This project uses machine learning to classify and analyze space debris using re
 ├── visualization.py     # Plotting and image saving utilities
 ├── utils.py             # Utility and formatting functions
 ├── images/              # All generated plots and images
-├── requirements.txt     # Python dependencies (create if missing)
+├── requirements.txt     # Python dependencies
 ├── README.md            # This file
 ```
 
